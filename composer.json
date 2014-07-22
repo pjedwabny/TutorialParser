@@ -1,0 +1,9 @@
+{
+    "name": "jedwab/tutorial-parser",
+    "require": {
+        "nategood/httpful": "*"
+    },
+    "autoload": {
+        "psr-4": {"jedwab\\TutorialParser\\": "src/"}
+    }
+}
